@@ -113,3 +113,15 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+
+
+# JmJin Test
+socials: [
+    {
+        title: "哔哩哔哩",
+        href: "https://space.bilibili.com/241448177?spm_id_from=333.1007.0.0"
+    },{
+        title: "CSDN",
+        href: "https://blog.csdn.net/weixin_50537332?spm=1000.2115.3001.5343"
+    }
+]
