@@ -11,7 +11,7 @@ header-img: "img/post-bg-rwd.jpg"
     <center>
         <font face="MicrosoftYaHei" size="5" color="#1D38B6">人生如此复杂，机会多的像稠密图，我们没理由认输。尽管我们走不了最短路，但图仍是连通图。TLE之前，没有一个节点叫失败。</font>
     </center>
-    <p>&nbsp;</p>
+
     <p>
         <span>一名本科 </span>
         <mjx-container class="MathJax" jax="SVG" style="position: relative;">
@@ -46,7 +46,6 @@ header-img: "img/post-bg-rwd.jpg"
                 </math>
             </mjx-assistive-mml>
         </mjx-container>
-<!--         <script type="math/tex">JLUer</script> -->
         <span> ，不出意外的话预计2024年毕业......</span>
     </p>
     <p>&nbsp;</p>
@@ -105,36 +104,6 @@ header-img: "img/post-bg-rwd.jpg"
 </div>
 
 
-<!-- Gitalk 评论 start  -->
-{% if site.gitalk.enable %}
-<!-- Gitalk link  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-    <script type="text/javascript">
-    var gitalk = new Gitalk({
-    clientID: '{{site.gitalk.clientID}}',
-    clientSecret: '{{site.gitalk.clientSecret}}',
-    repo: '{{site.gitalk.repo}}',
-    owner: '{{site.gitalk.owner}}',
-    admin: ['{{site.gitalk.admin}}'],
-    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-    id: 'about',
-    });
-    gitalk.render('gitalk-container');
-</script>
-{% endif %}
-<!-- Gitalk end -->
-
- <!-- disqus 评论框 start  -->
-{% if site.disqus.enable %}
-
-<div class="comment">
-    <div id="disqus_thread" class="disqus-thread">
-    </div>
-</div>
-<!-- disqus 评论框 end -->
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
