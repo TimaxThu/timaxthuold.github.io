@@ -8,7 +8,7 @@ keyword: "JmJin, 数据结构, JLU, 软件工程"
 url: "http://timaxthu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/TimaxThu/timaxthu.github.io" # you code repository
-markdown: kramdown #尝试一下是否可以解决latex问题
+
 
 
 # Sidebar settings
@@ -21,7 +21,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:    
-zhihu_username:    
+zhihu_username:    靳靳
 github_username:    timaxthu
 facebook_username:  
 jianshu_username:  
@@ -102,11 +102,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "我的哔哩哔哩",
+        href: "https://space.bilibili.com/241448177?spm_id_from=333.1007.0.0"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "CSDN",
+        href: "https://blog.csdn.net/weixin_50537332?spm=1000.2115.3001.5343"
     },{
         title: "Apple",
         href: "https://apple.com"
@@ -118,12 +118,12 @@ friends: [
 
 
 # JmJin Test
-socials: [
-    {
-        title: "哔哩哔哩",
-        href: "https://space.bilibili.com/241448177?spm_id_from=333.1007.0.0"
-    },{
-        title: "CSDN",
-        href: "https://blog.csdn.net/weixin_50537332?spm=1000.2115.3001.5343"
-    }
-]
+# socials: [
+#     {
+#         title: "哔哩哔哩",
+#         href: "https://space.bilibili.com/241448177?spm_id_from=333.1007.0.0"
+#     },{
+#         title: "CSDN",
+#         href: "https://blog.csdn.net/weixin_50537332?spm=1000.2115.3001.5343"
+#     }
+# ]
