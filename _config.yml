@@ -1,13 +1,14 @@
 # Site settings
 title: JmJin's Blogs
-SEOTitle: JmJin's Blogs | 小黑猫很可爱，我很爱
+SEOTitle: JmJin's Blogs
 header-img: img/post-bg-desk.jpg
 email: timaxthu@gmail.com
 description: "The quick brown fox jumps over a lazy dog."
 keyword: "JmJin, 数据结构, JLU, 软件工程"
-url: "http://timaxthu.github.io"          # your host, for absolute URL
+url: "https://timaxthu.github.io/timaxthuold.github.io/"        # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/TimaxThu/timaxthu.github.io" # you code repository
+github_repo:  "https://github.com/TimaxThu/timaxthuold.github.io"
+# "https://github.com/TimaxThu/timaxthu.github.io" # you code repository
 
 
 
